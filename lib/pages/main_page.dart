@@ -90,8 +90,7 @@ class ProductApi {
   static Future<String> _requestNewToken() async {
     String url = 'https://klimatkomfort161.ru/index.php?route=api/login';
     String username = 'gus';
-    String key =
-        'YdfKNNWkEEEccoHG5fLmWi8O1ORBJynmEGDEARc5gE4KOoJmN5zRwm7XDAQJNkUcXhwj4twQGnrxv0BfBbwW5r1mMWVeP3zBYXYqoQydU2a5xmQ43Gt3gh0lE3yeDiDjXzYpS4O4FlT5DlxzDk27hzjRM1Lh5DNJGJ0gXjIKXxXDaQ4nrOhfhyDu4i0iDErFtlsIRwU3nEmvW32mXfT34RxQ1gLuwrXmTugYXmoSyrgO0MVnu6jp8lRvMShaDUGJ';
+    String key = '';
 
     try {
       // Получение и вывод локального IP-адреса

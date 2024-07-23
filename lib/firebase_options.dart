@@ -41,8 +41,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBAWh2CkDDQ3yRyqoRQx8vpcVLJOKoKy8o',
-    appId: '1:1029053162869:web:0952d6783c749a7b859f3c',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '1029053162869',
     projectId: 'komfortplus-5b099',
     authDomain: 'komfortplus-5b099.firebaseapp.com',
@@ -50,38 +50,42 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCkaAXOBLZUx1z3YYiSoI5_xSeEEnx-C7U',
-    appId: '1:1029053162869:android:569ff673d40253ab859f3c',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '1029053162869',
     projectId: 'komfortplus-5b099',
     storageBucket: 'komfortplus-5b099.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyB74b7v4iptFTlwhDYssBxEDq-esvEbBO8',
-    appId: '1:1029053162869:ios:c89576da6218480e859f3c',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '1029053162869',
     projectId: 'komfortplus-5b099',
     storageBucket: 'komfortplus-5b099.appspot.com',
-    androidClientId: '1029053162869-a9mhrg6epeuvq43btcatf80vfmqj7hdj.apps.googleusercontent.com',
-    iosClientId: '1029053162869-o45841avpjbn35dvqqj3jn6r1iqk6j9p.apps.googleusercontent.com',
+    androidClientId:
+        '1029053162869-a9mhrg6epeuvq43btcatf80vfmqj7hdj.apps.googleusercontent.com',
+    iosClientId:
+        '1029053162869-o45841avpjbn35dvqqj3jn6r1iqk6j9p.apps.googleusercontent.com',
     iosBundleId: 'com.example.komfortik',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyB74b7v4iptFTlwhDYssBxEDq-esvEbBO8',
-    appId: '1:1029053162869:ios:c89576da6218480e859f3c',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '1029053162869',
     projectId: 'komfortplus-5b099',
     storageBucket: 'komfortplus-5b099.appspot.com',
-    androidClientId: '1029053162869-a9mhrg6epeuvq43btcatf80vfmqj7hdj.apps.googleusercontent.com',
-    iosClientId: '1029053162869-o45841avpjbn35dvqqj3jn6r1iqk6j9p.apps.googleusercontent.com',
+    androidClientId:
+        '1029053162869-a9mhrg6epeuvq43btcatf80vfmqj7hdj.apps.googleusercontent.com',
+    iosClientId:
+        '1029053162869-o45841avpjbn35dvqqj3jn6r1iqk6j9p.apps.googleusercontent.com',
     iosBundleId: 'com.example.komfortik',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyBAWh2CkDDQ3yRyqoRQx8vpcVLJOKoKy8o',
-    appId: '1:1029053162869:web:28d5003f9b7f0999859f3c',
+    apiKey: '',
+    appId: '',
     messagingSenderId: '1029053162869',
     projectId: 'komfortplus-5b099',
     authDomain: 'komfortplus-5b099.firebaseapp.com',
